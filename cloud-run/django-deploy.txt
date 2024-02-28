@@ -8,8 +8,10 @@ https://lekiaprosper.medium.com/deploying-django-app-to-google-cloud-using-cloud
 
 https://sebastien-peterson.medium.com/build-a-dockerized-django-app-on-google-cloud-run-with-ci-cd-a511ba707053
 
-------------
 https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
+
+------------
+
 
 https://medium.com/@lhennessy/running-django-on-google-cloud-run-with-cloudsql-ac8141095b77
 
