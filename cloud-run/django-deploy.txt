@@ -22,3 +22,6 @@ https://medium.com/swlh/preparing-your-django-application-for-google-cloud-run-7
 https://cloud.google.com/run/docs/deploying
 
 https://cloud.google.com/python/django/run
+-
+https://wellfire.co/learn/nginx-django-x-accel-redirects/
+https://docs.djangoproject.com/en/dev/ref/request-response/#streaminghttpresponse-objects
